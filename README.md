@@ -8,7 +8,6 @@
 <p align="left"> <a href="https://twitter.com/mehedirabby" target="blank"><img src="https://img.shields.io/twitter/follow/mehedirabby?logo=twitter&style=for-the-badge" alt="mehedirabby" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
-
 - 💬 Ask me about **MEARN**
 
 - 📫 How to reach me **mhrabby2995@gmail.com**
